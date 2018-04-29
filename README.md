@@ -8,7 +8,7 @@ Origami Design is an Android app card created in Android Studio.
 
 Screenshot of the card follows:
 
-![Android card](https://github.com/hillc255/OrigamiDesign/blob/master/app/src/main/res/drawable/origami1.png)
+![Android card](https://github.com/hillc255/OrigamiDesign/readme_assets/OrigamiDesigns.png)
 
 
 ## Motivation
