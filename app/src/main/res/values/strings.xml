@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OrigamiClub</string>
+    <string name="dragon_image">Picture of a dragon</string>
+    <string name="title1">Origami Club</string>
+    <string name="title2">Fold beautiful designs</string>
+    <string name="title3">Every Sunday @3pm</string>
+    <string name="title4">5 Callender St, Cambridge, MA</string>
+    <string name="title5">OrigamiClub.gmail.com</string>
+</resources>

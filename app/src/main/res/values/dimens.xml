@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- font_size -->
+    <dimen name="fontLarge">50sp</dimen>
+    <dimen name="fontMedium">30sp</dimen>
+    <dimen name="fontSmall">24sp</dimen>
+    <!-- margin -->
+    <dimen name="margin">20dp</dimen>
+    <dimen name="marginTop">60dp</dimen>
+    <!-- padding -->
+    <dimen name="paddingTop">40dp</dimen>
+</resources>
